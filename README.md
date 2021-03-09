@@ -1,4 +1,4 @@
-# KarelLearnsUnityCheckardBoard
+# KarelLearnsUnitycheckerboard
  Package file download: 
  https://drive.google.com/file/d/130ERmSRG9tN9P39gDTsin1XfC7LKPgZ1/view?usp=sharing
  
