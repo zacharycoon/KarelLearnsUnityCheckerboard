@@ -26,5 +26,6 @@ To make the Custom Karel work, in the 'Project' window, navigate inside the 'Scr
 Here you can see a function called CustomCode. Write all of your code there.
 
 Here is a list of all commands you can use with Karel:
+
 ![KarelCommands](https://user-images.githubusercontent.com/14883450/110404329-86e87200-8033-11eb-89a7-b9cb4db968d0.jpg)
 
